@@ -54,6 +54,10 @@ This implementation is based on the minimal Roman numeral form as described in t
 
 python3 RomanToInt.py
 
+### Generating Valid Cases
+
+The IntToRoman.py script automatically generates the validcases.txt file inside the tests directory. This file contains Roman numerals in minimal canonical form for all integers from 1 to 3999.
+
 ### Running Tests
 
 Before running the tests, make sure to generate the validcases.txt file by running the integer-to-Roman converter script first. This ensures that the valid test cases are up-to-date.
