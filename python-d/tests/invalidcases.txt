@@ -1,0 +1,42 @@
+# Geçersiz tekrarlar
+IIII
+VV
+LL
+DD
+MMMM
+
+# Geçersiz çıkarma çiftleri
+IL
+IC
+ID
+IM
+VX
+VL
+VC
+VD
+VM
+XD
+XM
+
+# Arka arkaya çıkarma yasaklarına uymayanlar
+IIV
+XXL
+CCD
+MIM
+
+# Karışık yanlış örüntüler
+VVX
+VX
+LC
+DM
+IXI
+XCX
+IVX
+VIIX
+IXIV
+
+# Bozuk format ve geçersiz karakterler
+ABC
+123
+MMX M
+!@#
